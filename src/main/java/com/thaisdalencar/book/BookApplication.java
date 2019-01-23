@@ -12,7 +12,7 @@ public class BookApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BookApplication.class, args);
-        logger.info("Just check log config");
+        logger.info("Application has started.");
     }
 
 }
