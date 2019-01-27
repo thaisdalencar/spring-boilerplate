@@ -1,4 +1,4 @@
-package com.thaisdalencar.book;
+package com.thaisdalencar.bookapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

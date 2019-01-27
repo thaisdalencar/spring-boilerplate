@@ -1,4 +1,4 @@
-package com.thaisdalencar.book;
+package com.thaisdalencar.bookapi;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

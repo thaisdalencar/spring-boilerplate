@@ -1,4 +1,4 @@
-package com.thaisdalencar.book.Config;
+package com.thaisdalencar.bookapi.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
